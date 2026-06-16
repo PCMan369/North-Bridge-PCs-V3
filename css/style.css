@@ -1,0 +1,10 @@
+/* Replace hero image: images/hero-build.jpg */
+body{background:#0f172a;color:#f8fafc;font-family:Arial,sans-serif;margin:0}
+nav,footer{padding:1rem;background:#1e293b}
+.hero{display:grid;grid-template-columns:1fr 1fr;gap:2rem;padding:2rem}
+.hero img{width:100%}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:1rem}
+.card{background:#1e293b;padding:1rem;border-radius:10px}
+.btn{background:#3b82f6;color:white;padding:.7rem 1rem;text-decoration:none;display:inline-block;margin:.3rem}
+section{padding:2rem}
+@media(max-width:768px){.hero{grid-template-columns:1fr}}
