@@ -30,7 +30,7 @@ status:"available"
 
 function card(build){
 return `<div class="card">
-<img src="${build.image}" style="width:100%">
+<img src="${build.image}" class="build-image">
 <h3>${build.title}</h3>
 <p>${build.ram}</p>
 <p>${build.storage}</p>
