@@ -15,7 +15,7 @@ status:"sold"
 
 {
 title:"Ryzen 5 3600 + GTX 1660 Ti",
-image:"images/1660ti.jpg",
+image:"images/comingsoon.jpg",
 ram:"16GB DDR4",
 storage:"500GB SSD",
 fps:[
