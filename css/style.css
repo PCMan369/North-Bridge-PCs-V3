@@ -10,6 +10,12 @@ nav,footer{padding:1rem;background:#1e293b}
     display:block;
     margin:auto;
 }
+.build-image {
+    width:100%;
+    height:220px;
+    object-fit:cover;
+    border-radius:8px;
+}
 .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:1rem}
 .card{background:#1e293b;padding:1rem;border-radius:10px}
 .btn{background:#3b82f6;color:white;padding:.7rem 1rem;text-decoration:none;display:inline-block;margin:.3rem}
