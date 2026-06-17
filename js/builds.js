@@ -17,7 +17,7 @@ status:"sold"
 title:"Ryzen 5 3600 + GTX 1660 Ti",
 image:"images/comingsoon.jpg",
 ram:"16GB DDR4",
-storage:"500GB SSD",
+storage:"480GB SSD",
 fps:[
 "Fortnite: 160+ FPS",
 "War Thunder: 120+ FPS",
