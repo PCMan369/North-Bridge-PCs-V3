@@ -7,4 +7,4 @@ nav,footer{padding:1rem;background:#1e293b}
 .card{background:#1e293b;padding:1rem;border-radius:10px}
 .btn{background:#3b82f6;color:white;padding:.7rem 1rem;text-decoration:none;display:inline-block;margin:.3rem}
 section{padding:2rem}
-@media(max-width:768px){.hero{grid-template-columns:1fr}}
+@media(max-width:600px){.hero{grid-template-columns:1fr}}
