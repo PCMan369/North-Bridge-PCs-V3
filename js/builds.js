@@ -10,7 +10,7 @@ ram:"16GB DDR4",
 storage:"512GB NVMe SSD",
 fps:["Fortnite: 200+ FPS","War Thunder: 180+ FPS","Minecraft: 300+ FPS"],
 price:"$650",
-status:"available"
+status:"sold"
 }
 ];
 
