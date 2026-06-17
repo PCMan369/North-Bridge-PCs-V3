@@ -11,6 +11,20 @@ storage:"512GB NVMe SSD",
 fps:["Fortnite: 200+ FPS","War Thunder: 180+ FPS","Minecraft: 300+ FPS"],
 price:"$650",
 status:"sold"
+},
+
+{
+title:"Ryzen 5 3600 + GTX 1660 Ti",
+image:"images/1660ti.jpg",
+ram:"16GB DDR4",
+storage:"500GB SSD",
+fps:[
+"Fortnite: 160+ FPS",
+"War Thunder: 120+ FPS",
+"Minecraft: 250+ FPS"
+],
+price:"$550",
+status:"available"
 }
 ];
 
